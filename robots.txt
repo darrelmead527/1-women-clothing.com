@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /women's_1/
+Sitemap: http://www.1-women-clothing.com/sitemap.xml 
